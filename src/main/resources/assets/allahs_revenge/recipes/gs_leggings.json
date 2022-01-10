@@ -1,0 +1,39 @@
+{
+  "group": "allahs_revenge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "1": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "2": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "3": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "4": {
+      "item": "minecraft:diamond_leggings"
+    },
+    "5": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "6": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "8": {
+      "item": "allahs_revenge:golden_slime"
+    }
+  },
+  "result": {
+    "item": "allahs_revenge:golden_slime_armorlegs",
+    "count": 1
+  }
+}

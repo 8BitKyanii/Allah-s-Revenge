@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "drd",
+    "name": "Dr D",
+    "description": "Listen to me, you won't",
+    "creativeTab": {
+      "value": "CUSTOM:AllahsRevenge"
+    },
+    "music": {
+      "value": "CUSTOM:drheinzdoofenshmirtz"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

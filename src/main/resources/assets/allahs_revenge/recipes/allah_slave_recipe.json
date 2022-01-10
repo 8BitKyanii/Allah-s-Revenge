@@ -1,0 +1,30 @@
+{
+  "group": "allahs_revenge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "1": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "2": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "4": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "allahs_revenge:allahs_slave",
+    "count": 1
+  }
+}

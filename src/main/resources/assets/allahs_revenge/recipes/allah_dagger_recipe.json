@@ -1,0 +1,24 @@
+{
+  "group": "allahs_revenge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "1": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "2": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "allahs_revenge:allahs_dagger",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "allahs_revenge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "1": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "2": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "3": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "4": {
+      "item": "minecraft:diamond_leggings"
+    },
+    "5": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "6": {
+      "item": "allahs_revenge:allahs_iron"
+    },
+    "8": {
+      "item": "allahs_revenge:allahs_iron"
+    }
+  },
+  "result": {
+    "item": "allahs_revenge:essence_of_allahlegs",
+    "count": 1
+  }
+}

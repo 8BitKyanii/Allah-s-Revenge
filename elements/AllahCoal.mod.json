@@ -1,0 +1,10 @@
+{
+  "_fv": 18,
+  "_type": "fuel",
+  "definition": {
+    "power": 9800,
+    "block": {
+      "value": "CUSTOM:AllahsCoal"
+    }
+  }
+}

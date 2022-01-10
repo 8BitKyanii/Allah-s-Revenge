@@ -1,0 +1,29 @@
+{
+  "group": "allahs_revenge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "1": {
+      "item": "minecraft:diamond_boots"
+    },
+    "2": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "3": {
+      "item": "allahs_revenge:golden_slime"
+    },
+    "5": {
+      "item": "allahs_revenge:golden_slime"
+    }
+  },
+  "result": {
+    "item": "allahs_revenge:golden_slime_armorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "allahs_revenge:blocks/allahcoalore",
+    "up": "allahs_revenge:blocks/allahcoalore",
+    "north": "allahs_revenge:blocks/allahcoalore",
+    "east": "allahs_revenge:blocks/allahcoalore",
+    "south": "allahs_revenge:blocks/allahcoalore",
+    "west": "allahs_revenge:blocks/allahcoalore",
+    "particle": "allahs_revenge:blocks/allahcoalore"
+  }
+}

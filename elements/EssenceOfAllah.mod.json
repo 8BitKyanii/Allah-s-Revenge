@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "eoahelmet",
+    "enableBody": true,
+    "textureBody": "eoachestplate",
+    "enableLeggings": true,
+    "textureLeggings": "eoaleggings",
+    "enableBoots": true,
+    "textureBoots": "eoaboots",
+    "creativeTab": {
+      "value": "CUSTOM:AllahsRevenge"
+    },
+    "armorTextureFile": "allah_",
+    "helmetName": "Essence Of Allah Helmet",
+    "bodyName": "Essence Of Allah Chestplate",
+    "leggingsName": "Essence Of Allah Leggings",
+    "bootsName": "Essence Of Allah Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 40,
+    "damageValueHelmet": 5,
+    "damageValueBody": 9,
+    "damageValueLeggings": 8,
+    "damageValueBoots": 2,
+    "enchantability": 36,
+    "toughness": 4.0,
+    "knockbackResistance": 0.5,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AllahsIron"
+      }
+    ]
+  }
+}

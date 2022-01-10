@@ -1,0 +1,414 @@
+{
+  "id_map": {
+    "GUI": 1
+  },
+  "mod_elements": [
+    {
+      "name": "AllahsRevenge",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_revenge"
+    },
+    {
+      "name": "AllahsSlave",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_slave"
+    },
+    {
+      "name": "AllahsDaggerEntitySwingsItem",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_dagger_entity_swings_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AllahsDagger",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_dagger"
+    },
+    {
+      "name": "AllahsCoal",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_coal"
+    },
+    {
+      "name": "AllahCoal",
+      "type": "fuel",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allah_coal"
+    },
+    {
+      "name": "AllahsIron",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_iron"
+    },
+    {
+      "name": "AllahCoalOre",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allah_coal_ore"
+    },
+    {
+      "name": "AllahAlloyRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allah_alloy_recipe"
+    },
+    {
+      "name": "GoldenSlime",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_slime"
+    },
+    {
+      "name": "DrD",
+      "type": "musicdisc",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dr_d"
+    },
+    {
+      "name": "Goldenslimerecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "goldenslimerecipe"
+    },
+    {
+      "name": "EssenceOfAllah",
+      "type": "armor",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "essence_of_allah",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EOAHelmetRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eoa_helmet_recipe"
+    },
+    {
+      "name": "EOAChestplate",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eoa_chestplate"
+    },
+    {
+      "name": "EOALegging",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eoa_legging"
+    },
+    {
+      "name": "EOABoots",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eoa_boots"
+    },
+    {
+      "name": "AllahDaggerRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allah_dagger_recipe"
+    },
+    {
+      "name": "AllahSlaveRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allah_slave_recipe"
+    },
+    {
+      "name": "GoldenSlimeArmor",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_slime_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GSHelmet",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gs_helmet"
+    },
+    {
+      "name": "GSChestplate",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gs_chestplate"
+    },
+    {
+      "name": "GSLeggings",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gs_leggings"
+    },
+    {
+      "name": "GSBoots",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gs_boots"
+    },
+    {
+      "name": "AllahsSlaveItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_slave_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AllahsDaggerItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_dagger_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GoldenSlimePickaxeItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_slime_pickaxe_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GoldenSlimePickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_slime_pickaxe"
+    },
+    {
+      "name": "GoldenSlimeSwordItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_slime_sword_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GoldenSlimeSword",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_slime_sword"
+    },
+    {
+      "name": "GSPRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gsp_recipe"
+    },
+    {
+      "name": "GSSRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gss_recipe"
+    },
+    {
+      "name": "LootOre",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loot_ore"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "drheinzdoofenshmirtz",
+      "files": [
+        "dr._heinz_doofenshmirtz_alexander_hamilton_parody"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.golden_slime_pickaxe.name": "Golden Slime Pickaxe",
+      "item.allahs_dagger.name": "Allah\u0027s Dagger",
+      "item.golden_slime.name": "Golden Slime",
+      "item.golden_slime_armorlegs.name": "Golden Slime Leggings",
+      "item.allahs_iron.name": "Allah\u0027s Alloy",
+      "item.golden_slime_armorbody.name": "Golden Slime Chestplate",
+      "itemGroup.taballahs_revenge": "Allahs Revenge",
+      "item.essence_of_allahlegs.name": "Essence Of Allah Leggings",
+      "subtitles.drheinzdoofenshmirtz": "",
+      "item.essence_of_allahboots.name": "Essence Of Allah Boots",
+      "item.golden_slime_armorhelmet.name": "Golden Slime Helmet",
+      "tile.loot_ore.name": "Loot Ore",
+      "item.record.dr_d.desc": "Listen to me, you won\u0027t",
+      "item.allahs_slave.name": "Allah\u0027s Slave",
+      "item.allahs_coal.name": "Allahs Coal",
+      "item.golden_slime_armorboots.name": "Golden Slime Boots",
+      "item.essence_of_allahhelmet.name": "Essence Of Allah Helmet",
+      "item.dr_d.name": "Dr D",
+      "item.essence_of_allahbody.name": "Essence Of Allah Chestplate",
+      "item.golden_slime_sword.name": "Golden Slime Sword",
+      "tile.allah_coal_ore.name": "Allah Coal Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "allahs_revenge",
+    "modName": "Allah\u0027s Revenge",
+    "version": "1.0.0",
+    "author": "8-Bit, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.allahsrevenge",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

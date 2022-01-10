@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Allahs Revenge",
+    "icon": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "showSearch": false
+  }
+}
