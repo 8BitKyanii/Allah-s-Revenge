@@ -342,15 +342,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gss_recipe"
-    },
-    {
-      "name": "LootOre",
-      "type": "block",
-      "sortid": 30,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "loot_ore"
     }
   ],
   "variable_elements": [],
@@ -377,7 +368,6 @@
       "subtitles.drheinzdoofenshmirtz": "",
       "item.essence_of_allahboots.name": "Essence Of Allah Boots",
       "item.golden_slime_armorhelmet.name": "Golden Slime Helmet",
-      "tile.loot_ore.name": "Loot Ore",
       "item.record.dr_d.desc": "Listen to me, you won\u0027t",
       "item.allahs_slave.name": "Allah\u0027s Slave",
       "item.allahs_coal.name": "Allahs Coal",

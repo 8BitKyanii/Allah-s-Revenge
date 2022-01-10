@@ -55,12 +55,6 @@ public class ItemAllahsSlave extends ElementsAllahsRevengeMod.ModElement {
 					ProcedureAllahsSlaveItemIsCraftedsmelted.executeProcedure($_dependencies);
 				}
 			}
-
-			@Override
-			@SideOnly(Side.CLIENT)
-			public boolean hasEffect(ItemStack itemstack) {
-				return true;
-			}
 		}.setUnlocalizedName("allahs_slave").setRegistryName("allahs_slave").setCreativeTab(TabAllahsRevenge.tab));
 	}
 
