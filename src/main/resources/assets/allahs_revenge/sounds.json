@@ -7,5 +7,14 @@
         "stream": false
       }
     ]
+  },
+  "platypusbecontrollinme": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "allahs_revenge:my_shot_but_there_is_a_platypus_controlling_me_hamilton_x_phineas_and_ferb",
+        "stream": false
+      }
+    ]
   }
 }

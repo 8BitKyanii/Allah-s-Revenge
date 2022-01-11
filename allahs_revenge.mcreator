@@ -342,6 +342,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gss_recipe"
+    },
+    {
+      "name": "TAPCM",
+      "type": "musicdisc",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tapcm"
+    },
+    {
+      "name": "TotemOfUndying",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "totem_of_undying"
     }
   ],
   "variable_elements": [],
@@ -350,6 +368,14 @@
       "name": "drheinzdoofenshmirtz",
       "files": [
         "dr._heinz_doofenshmirtz_alexander_hamilton_parody"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "platypusbecontrollinme",
+      "files": [
+        "my_shot_but_there_is_a_platypus_controlling_me_hamilton_x_phineas_and_ferb"
       ],
       "category": "master",
       "subtitle": ""
@@ -364,8 +390,10 @@
       "item.allahs_iron.name": "Allah\u0027s Alloy",
       "item.golden_slime_armorbody.name": "Golden Slime Chestplate",
       "itemGroup.taballahs_revenge": "Allahs Revenge",
+      "subtitles.platypusbecontrollinme": "",
       "item.essence_of_allahlegs.name": "Essence Of Allah Leggings",
       "subtitles.drheinzdoofenshmirtz": "",
+      "item.tapcm.name": "A platypus? PERRY THE PLATYPUS?!?",
       "item.essence_of_allahboots.name": "Essence Of Allah Boots",
       "item.golden_slime_armorhelmet.name": "Golden Slime Helmet",
       "item.record.dr_d.desc": "Listen to me, you won\u0027t",
@@ -376,6 +404,7 @@
       "item.dr_d.name": "Dr D",
       "item.essence_of_allahbody.name": "Essence Of Allah Chestplate",
       "item.golden_slime_sword.name": "Golden Slime Sword",
+      "item.record.tapcm.desc": "There is a platypus.",
       "tile.allah_coal_ore.name": "Allah Coal Ore"
     }
   },

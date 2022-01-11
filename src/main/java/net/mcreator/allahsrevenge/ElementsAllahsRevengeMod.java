@@ -56,6 +56,8 @@ public class ElementsAllahsRevengeMod implements IFuelHandler, IWorldGenerator {
 	public ElementsAllahsRevengeMod() {
 		sounds.put(new ResourceLocation("allahs_revenge", "drheinzdoofenshmirtz"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("allahs_revenge", "drheinzdoofenshmirtz")));
+		sounds.put(new ResourceLocation("allahs_revenge", "platypusbecontrollinme"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("allahs_revenge", "platypusbecontrollinme")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {

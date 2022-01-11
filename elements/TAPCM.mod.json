@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "tapcm",
+    "name": "A platypus? PERRY THE PLATYPUS?!?",
+    "description": "There is a platypus.",
+    "creativeTab": {
+      "value": "CUSTOM:AllahsRevenge"
+    },
+    "music": {
+      "value": "CUSTOM:platypusbecontrollinme"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}
