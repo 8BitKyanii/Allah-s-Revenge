@@ -22,23 +22,6 @@
       "registry_name": "allahs_slave"
     },
     {
-      "name": "AllahsDaggerEntitySwingsItem",
-      "type": "procedure",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "allahs_dagger_entity_swings_item",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
-    },
-    {
       "name": "AllahsDagger",
       "type": "tool",
       "sortid": 3,
@@ -344,15 +327,6 @@
       "registry_name": "gss_recipe"
     },
     {
-      "name": "TAPCM",
-      "type": "musicdisc",
-      "sortid": 30,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "tapcm"
-    },
-    {
       "name": "TotemOfUndying",
       "type": "recipe",
       "sortid": 31,
@@ -360,6 +334,77 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "totem_of_undying"
+    },
+    {
+      "name": "AllahsAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AllahsApple",
+      "type": "food",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allahs_apple"
+    },
+    {
+      "name": "CondencedGoldBlockA",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condenced_gold_block_a"
+    },
+    {
+      "name": "CondencedGoldBlockARecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condenced_gold_block_a_recipe"
+    },
+    {
+      "name": "Encahntedgoldenapple",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "encahntedgoldenapple"
+    },
+    {
+      "name": "AllahAppleRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "allah_apple_recipe"
+    },
+    {
+      "name": "CondencedObsidA",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condenced_obsid_a"
     }
   ],
   "variable_elements": [],
@@ -383,29 +428,30 @@
   ],
   "language_map": {
     "en_us": {
-      "item.golden_slime_pickaxe.name": "Golden Slime Pickaxe",
-      "item.allahs_dagger.name": "Allah\u0027s Dagger",
       "item.golden_slime.name": "Golden Slime",
       "item.golden_slime_armorlegs.name": "Golden Slime Leggings",
-      "item.allahs_iron.name": "Allah\u0027s Alloy",
       "item.golden_slime_armorbody.name": "Golden Slime Chestplate",
       "itemGroup.taballahs_revenge": "Allahs Revenge",
       "subtitles.platypusbecontrollinme": "",
       "item.essence_of_allahlegs.name": "Essence Of Allah Leggings",
-      "subtitles.drheinzdoofenshmirtz": "",
-      "item.tapcm.name": "A platypus? PERRY THE PLATYPUS?!?",
-      "item.essence_of_allahboots.name": "Essence Of Allah Boots",
-      "item.golden_slime_armorhelmet.name": "Golden Slime Helmet",
-      "item.record.dr_d.desc": "Listen to me, you won\u0027t",
-      "item.allahs_slave.name": "Allah\u0027s Slave",
       "item.allahs_coal.name": "Allahs Coal",
-      "item.golden_slime_armorboots.name": "Golden Slime Boots",
-      "item.essence_of_allahhelmet.name": "Essence Of Allah Helmet",
       "item.dr_d.name": "Dr D",
       "item.essence_of_allahbody.name": "Essence Of Allah Chestplate",
       "item.golden_slime_sword.name": "Golden Slime Sword",
-      "item.record.tapcm.desc": "There is a platypus.",
-      "tile.allah_coal_ore.name": "Allah Coal Ore"
+      "tile.allah_coal_ore.name": "Allah Coal Ore",
+      "item.golden_slime_pickaxe.name": "Golden Slime Pickaxe",
+      "item.allahs_dagger.name": "Allah\u0027s Dagger",
+      "item.allahs_iron.name": "Allah\u0027s Alloy",
+      "subtitles.drheinzdoofenshmirtz": "",
+      "item.essence_of_allahboots.name": "Essence Of Allah Boots",
+      "item.golden_slime_armorhelmet.name": "Golden Slime Helmet",
+      "item.allahs_apple.name": "Allahs Apple",
+      "item.record.dr_d.desc": "Listen to me, you won\u0027t",
+      "item.allahs_slave.name": "Allah\u0027s Miner",
+      "tile.condenced_gold_block_a.name": "Condenced Gold Block x9",
+      "item.golden_slime_armorboots.name": "Golden Slime Boots",
+      "item.essence_of_allahhelmet.name": "Essence Of Allah Helmet",
+      "tile.condenced_obsid_a.name": "Condenced Obsid A"
     }
   },
   "foldersRoot": {

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "allahs_revenge:blocks/condencedobsidx9",
+    "particle": "allahs_revenge:blocks/condencedobsidx9"
+  }
+}

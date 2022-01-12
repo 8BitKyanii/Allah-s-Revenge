@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "allahs_revenge:blocks/condencedgoldx9",
+    "up": "allahs_revenge:blocks/condencedgoldx9",
+    "north": "allahs_revenge:blocks/condencedgoldx9",
+    "east": "allahs_revenge:blocks/condencedgoldx9",
+    "south": "allahs_revenge:blocks/condencedgoldx9",
+    "west": "allahs_revenge:blocks/condencedgoldx9",
+    "particle": "allahs_revenge:blocks/condencedgoldx9"
+  }
+}

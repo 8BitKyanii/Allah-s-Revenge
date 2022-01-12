@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CondencedGoldBlockA"
+      },
+      {
+        "value": "CUSTOM:CondencedGoldBlockA"
+      },
+      {
+        "value": "CUSTOM:CondencedGoldBlockA"
+      },
+      {
+        "value": "CUSTOM:CondencedGoldBlockA"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": "CUSTOM:CondencedGoldBlockA"
+      },
+      {
+        "value": "CUSTOM:CondencedGoldBlockA"
+      },
+      {
+        "value": "CUSTOM:CondencedGoldBlockA"
+      },
+      {
+        "value": "CUSTOM:CondencedGoldBlockA"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.GOLDEN_APPLE#1"
+    },
+    "name": "encahntedgoldenapple",
+    "namespace": "mod"
+  }
+}

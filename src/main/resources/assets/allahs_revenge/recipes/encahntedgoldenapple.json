@@ -1,0 +1,44 @@
+{
+  "group": "allahs_revenge",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "allahs_revenge:condenced_gold_block_a"
+    },
+    "1": {
+      "item": "allahs_revenge:condenced_gold_block_a"
+    },
+    "2": {
+      "item": "allahs_revenge:condenced_gold_block_a"
+    },
+    "3": {
+      "item": "allahs_revenge:condenced_gold_block_a"
+    },
+    "4": {
+      "item": "minecraft:golden_apple",
+      "data": 0
+    },
+    "5": {
+      "item": "allahs_revenge:condenced_gold_block_a"
+    },
+    "6": {
+      "item": "allahs_revenge:condenced_gold_block_a"
+    },
+    "7": {
+      "item": "allahs_revenge:condenced_gold_block_a"
+    },
+    "8": {
+      "item": "allahs_revenge:condenced_gold_block_a"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_apple",
+    "data": 1,
+    "count": 1
+  }
+}
