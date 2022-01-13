@@ -2,7 +2,7 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "condencedobsidx9",
+    "texture": "condencedobsidx81",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
@@ -32,9 +32,9 @@
         "subtract": false
       }
     ],
-    "name": "Condenced Obsidian(x9)",
+    "name": "Condenced Obsidian(x81)",
     "specialInfo": [],
-    "hardness": 20.0,
+    "hardness": 30.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,

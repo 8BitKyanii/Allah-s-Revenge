@@ -1,6 +1,7 @@
 {
   "id_map": {
-    "GUI": 1
+    "GUI": 1,
+    "ENTITY": 4
   },
   "mod_elements": [
     {
@@ -83,15 +84,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "golden_slime"
-    },
-    {
-      "name": "DrD",
-      "type": "musicdisc",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dr_d"
     },
     {
       "name": "Goldenslimerecipe",
@@ -405,6 +397,60 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "condenced_obsid_a"
+    },
+    {
+      "name": "CondencedObsidB",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condenced_obsid_b"
+    },
+    {
+      "name": "CondencedObsidARecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condenced_obsid_a_recipe"
+    },
+    {
+      "name": "CondencedObsidBRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condenced_obsid_b_recipe"
+    },
+    {
+      "name": "ImpureResistantAllahIngot",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "impure_resistant_allah_ingot"
+    },
+    {
+      "name": "ResistantAllahIngot",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resistant_allah_ingot"
+    },
+    {
+      "name": "ResistantAllahAlloy",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resistant_allah_alloy"
     }
   ],
   "variable_elements": [],
@@ -431,11 +477,13 @@
       "item.golden_slime.name": "Golden Slime",
       "item.golden_slime_armorlegs.name": "Golden Slime Leggings",
       "item.golden_slime_armorbody.name": "Golden Slime Chestplate",
-      "itemGroup.taballahs_revenge": "Allahs Revenge",
       "subtitles.platypusbecontrollinme": "",
+      "itemGroup.taballahs_revenge": "Allahs Revenge",
       "item.essence_of_allahlegs.name": "Essence Of Allah Leggings",
+      "tile.condenced_obsid_b.name": "Condenced Obsidian(x81)",
       "item.allahs_coal.name": "Allahs Coal",
-      "item.dr_d.name": "Dr D",
+      "tile.impure_resistant_allah_ingot.name": "Impure Resistant Allah Alloy",
+      "tile.resistant_allah_ingot.name": "Resistant Allah Alloy",
       "item.essence_of_allahbody.name": "Essence Of Allah Chestplate",
       "item.golden_slime_sword.name": "Golden Slime Sword",
       "tile.allah_coal_ore.name": "Allah Coal Ore",
@@ -446,12 +494,11 @@
       "item.essence_of_allahboots.name": "Essence Of Allah Boots",
       "item.golden_slime_armorhelmet.name": "Golden Slime Helmet",
       "item.allahs_apple.name": "Allahs Apple",
-      "item.record.dr_d.desc": "Listen to me, you won\u0027t",
       "item.allahs_slave.name": "Allah\u0027s Miner",
       "tile.condenced_gold_block_a.name": "Condenced Gold Block x9",
       "item.golden_slime_armorboots.name": "Golden Slime Boots",
       "item.essence_of_allahhelmet.name": "Essence Of Allah Helmet",
-      "tile.condenced_obsid_a.name": "Condenced Obsid A"
+      "tile.condenced_obsid_a.name": "Condenced Obsidian(x9)"
     }
   },
   "foldersRoot": {
